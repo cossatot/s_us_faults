@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "s_us_geol_slip_rates",
+"features": [
+{ "type": "Feature", "properties": { "dextral_rate": null, "dextral_err": null, "extension_rate": 0.12, "extension_err": 0.01, "source": "NSHM SR-227", "notes": "vert rate", "fault_seg": "susf069", "include": true }, "geometry": { "type": "Point", "coordinates": [ -106.27673, 39.97156 ] } },
+{ "type": "Feature", "properties": { "dextral_rate": null, "dextral_err": null, "extension_rate": 0.18, "extension_err": 0.06, "source": "NSHM SR-226", "notes": "vert rate", "fault_seg": "susf069", "include": true }, "geometry": { "type": "Point", "coordinates": [ -106.17707, 39.87534 ] } },
+{ "type": "Feature", "properties": { "dextral_rate": null, "dextral_err": null, "extension_rate": 0.85, "extension_err": 0.056, "source": "NSHM SR-225", "notes": "vert rate", "fault_seg": "susf069", "include": true }, "geometry": { "type": "Point", "coordinates": [ -106.15946, 39.85915 ] } },
+{ "type": "Feature", "properties": { "dextral_rate": null, "dextral_err": null, "extension_rate": 0.14, "extension_err": 0.08, "source": "NSHM SR-214", "notes": "vert rate", "fault_seg": "susf050", "include": true }, "geometry": { "type": "Point", "coordinates": [ -106.15933, 39.68213 ] } }
+]
+}
